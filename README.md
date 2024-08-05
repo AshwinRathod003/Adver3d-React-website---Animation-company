@@ -3,7 +3,7 @@ Welcome to the Adver 3D project! This is a React-based website featuring a 3D mo
 
 Website link - https://adver3d.000webhostapp.com/
 
-![Screenshot (276)](https://github.com/user-attachments/assets/53f7c01c-07a2-49a9-b1bd-e073a002f290)
+![Screenshot (276)](https://github.com/user-attachments/assets/f97abd05-3d8e-469d-9fe1-e99ec236c181)
 
 
 About the Project
